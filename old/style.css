@@ -1,0 +1,185 @@
+@import url("http://fonts.cdnfonts.com/css/gotham");
+*,
+*::after,
+*::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+:root {
+  --Primary-clr: #F7CF47;
+  --Black: #000000;
+  --White: #FFFFFF;
+  --Dark-Grey: #1B1A1A;
+  --Deep-Grey: #303030;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+  padding: 20px 80px;
+}
+
+.container-bg {
+  position: absolute;
+  top: 85vh;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 17vh;
+  width: 100%;
+  background: var(--Dark-Grey);
+}
+
+.navbar {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  list-style: none;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navbar ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 0;
+  list-style: none;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.navbar ul li {
+  margin-right: 30px;
+}
+
+.navbar a.logo {
+  font-family: 'Gotham', sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+}
+
+.navbar a {
+  text-decoration: none;
+  color: var(--Black);
+}
+
+.navbar a.links {
+  font-family: 'Gotham Book 500', sans-serif;
+  font-size: 17px;
+  line-height: 19px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  letter-spacing: 0.1em;
+}
+
+.hero {
+  display: -ms-grid;
+  display: grid;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 85vh;
+}
+
+.hero-row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.hero-row .left {
+  width: 50%;
+}
+
+.hero-row .left h1 {
+  font-family: 'Gotham Bold', sans-serif;
+  font-size: 70px;
+  width: 200px;
+  margin: 0 0 25px;
+}
+
+.hero-row .right {
+  width: 50%;
+}
+
+.hero-bg {
+  background: var(--Primary-clr);
+  height: 90vh;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -5;
+}
+
+.btn-primary {
+  display: block;
+  text-decoration: none;
+  color: var(--White);
+  font-family: 'Gotham Book 500', sans-serif;
+  letter-spacing: 0.19em;
+  background: var(--Black);
+  padding: 1em 2.9em;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  border-radius: 50px;
+  -webkit-transition: background 0.5s ease;
+  transition: background 0.5s ease;
+}
+
+.btn-primary:hover {
+  background: var(--Deep-Grey);
+}
+
+.btn-secondary {
+  display: block;
+  text-decoration: none;
+  color: var(--Black);
+  padding: 0.7em 1.5em;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: max-content;
+  border-radius: 50px;
+  border: 1.6px solid var(--Black);
+  -webkit-transition: background 0.5s ease, border-color 0.5s ease, color 0.5s ease;
+  transition: background 0.5s ease, border-color 0.5s ease, color 0.5s ease;
+}
+
+.btn-secondary svg {
+  margin-right: 13px;
+}
+
+.btn-secondary svg .icon {
+  -webkit-transition: fill 0.5s ease;
+  transition: fill 0.5s ease;
+}
+
+.btn-secondary:hover {
+  background: var(--Dark-Grey);
+  border-color: var(--Dark-Grey);
+  color: var(--White);
+}
+
+.btn-secondary:hover svg .icon {
+  fill: var(--White);
+}

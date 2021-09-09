@@ -1,0 +1,29 @@
+<svg width="348" height="474" viewBox="0 0 348 474" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="el-container">
+<g id="first-el">
+<circle id="Profile-pic-05 " cx="26" cy="26" r="26" fill="#F0F0F0"/>
+<rect id="headline-05" x="87" y="3" width="261" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-05" x="87" y="38" width="171" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="second-el">
+<circle id="Profile-pic-04 " cx="26" cy="131" r="26" fill="#F0F0F0"/>
+<rect id="headline-04" x="87" y="108" width="226" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-04" x="87" y="143" width="112" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="third-el">
+<circle id="Profile-pic-03 " cx="26" cy="341" r="26" fill="#F0F0F0"/>
+<rect id="headline-03" x="87" y="318" width="215" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-03" x="87" y="353" width="135" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="fourth-el">
+<circle id="Profile-pic-02 " cx="26" cy="236" r="26" fill="#F0F0F0"/>
+<rect id="headline-02" x="87" y="213" width="261" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-02" x="87" y="248" width="147" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="fifth-el">
+<ellipse id="Profile-pic-01 " cx="26.523" cy="446" rx="26.523" ry="26" fill="#F0F0F0"/>
+<rect id="headline-01" x="89" y="423" width="169" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-01" x="89" y="458" width="133" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+</g>
+</svg>

@@ -1,0 +1,47 @@
+<svg width="836" height="920" viewBox="0 0 836 920" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="ui">
+<g id="Rectangle 7" filter="url(#filter0_d)">
+<rect x="176" y="102" width="480" height="618" rx="28" fill="white"/>
+</g>
+<g id="el-container">
+<g id="first-el">
+<circle id="Profile-pic-05 " cx="252" cy="196" r="26" fill="#F0F0F0"/>
+<rect id="headline-05" x="313" y="173" width="261" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-05" x="313" y="208" width="171" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="second-el">
+<circle id="Profile-pic-04 " cx="252" cy="301" r="26" fill="#F0F0F0"/>
+<rect id="headline-04" x="313" y="278" width="226" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-04" x="313" y="313" width="112" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="third-el">
+<circle id="Profile-pic-03 " cx="252" cy="511" r="26" fill="#F0F0F0"/>
+<rect id="headline-03" x="313" y="488" width="215" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-03" x="313" y="523" width="135" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="fourth-el">
+<circle id="Profile-pic-02 " cx="252" cy="406" r="26" fill="#F0F0F0"/>
+<rect id="headline-02" x="313" y="383" width="261" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-02" x="313" y="418" width="147" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+<g id="fifth-el">
+<ellipse id="Profile-pic-01 " cx="252.523" cy="616" rx="26.523" ry="26" fill="#F0F0F0"/>
+<rect id="headline-01" x="315" y="593" width="169" height="16" rx="8" fill="#F0F0F0"/>
+<rect id="subline-01" x="315" y="628" width="133" height="16" rx="8" fill="#F0F0F0"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d" x="0" y="0" width="848" height="986" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="12" operator="erode" in="SourceAlpha" result="effect1_dropShadow"/>
+<feOffset dx="8" dy="82"/>
+<feGaussianBlur stdDeviation="98"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
+</filter>
+</defs>
+</svg>

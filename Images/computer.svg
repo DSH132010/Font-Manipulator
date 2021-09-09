@@ -1,0 +1,30 @@
+<svg width="460" height="338" viewBox="0 0 460 338" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="computer">
+<g id="Frame">
+<path id="Screen-Border" d="M40.8906 274.455H419.109C425.234 274.455 429.828 269.861 429.828 263.736V11.0799C429.828 4.95489 425.234 0.361145 419.109 0.361145H40.8906C35.5313 0.361145 30.9375 4.95489 30.9375 11.0799V263.736C30.9375 269.861 35.5313 274.455 40.8906 274.455Z" fill="#212528"/>
+<path id="HardwareCase" d="M0.3125 311.971C0.3125 324.221 10.2656 337.236 23.2812 337.236H436.719C448.969 337.236 459.688 324.221 459.688 311.971H0.3125Z" fill="#212528"/>
+</g>
+<g id="Visual">
+<path id="Top-Hardware-Case" d="M421.406 274.455H38.5938L0.3125 311.97H459.688L421.406 274.455Z" fill="url(#paint0_linear)"/>
+<path id="KeyBoard" d="M408.391 277.517H51.6094L38.5938 292.83H421.406L408.391 277.517Z" fill="#BFBEBE"/>
+<path id="Touchpad" d="M269.047 299.721H190.953L184.828 308.142H275.172L269.047 299.721Z" fill="#212528"/>
+<path id="Screen" d="M53.9062 23.3299H406.094V251.486H53.9062V23.3299Z" fill="url(#paint1_linear)"/>
+<path id="Camera" d="M230 18.7362C233.383 18.7362 236.125 15.9939 236.125 12.6112C236.125 9.22841 233.383 6.48615 230 6.48615C226.617 6.48615 223.875 9.22841 223.875 12.6112C223.875 15.9939 226.617 18.7362 230 18.7362Z" fill="url(#paint2_linear)"/>
+<path id="snaping-lock" d="M262.922 328.049H197.078C194.781 328.049 188.656 328.049 188.656 320.392H271.344C271.344 328.049 265.219 328.049 262.922 328.049Z" fill="#3E4347"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="38.6766" y1="274.455" x2="454.421" y2="311.97" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2EEEE"/>
+<stop offset="1" stop-color="#DDDDDD"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="109.195" y1="73.8235" x2="406.094" y2="251.486" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3E4347"/>
+<stop offset="1" stop-color="#3E4347" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear" x1="233.625" y1="17.347" x2="225.239" y2="8.72333" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C9C9C9"/>
+<stop offset="1" stop-color="#EBE7E7"/>
+</linearGradient>
+</defs>
+</svg>
